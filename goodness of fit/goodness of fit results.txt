@@ -1,0 +1,1190 @@
+Reparaciones con distribucion gamma
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- 
+0 1.0 150115
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.7148
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 3005.7168
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+1 1.5141 103350
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.5771
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 2305.7927
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+2 2.0988 73264
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.4563
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 1576.6074
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+3 2.7577000000000003 52638
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.3572
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 970.0219
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+4 3.4944 38013
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.2818
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 567.4357
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+5 4.312499999999999 28151
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.2189
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 330.6596
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+6 5.2156 21441
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.1734
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 188.5839
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+7 6.2073 16203
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.1374
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 102.3170
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+8 7.2912 12577
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.1129
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 61.2867
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+9 8.4709 9719
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0972
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 39.9148
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+10 9.75 7889
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0756
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 22.4044
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+11 11.132100000000001 6208
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0630
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 13.5323
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+12 12.620800000000001 4911
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0647
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 9.7973
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+13 14.219700000000001 3994
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0584
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 2.6461
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+14 15.932400000000005 3313
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0448
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 3.0839
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+15 17.7625 2797
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0413
+p-valor: 0.0001
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 2.4854
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+16 19.713600000000003 2322
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0434
+p-valor: 0.0003
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 3.8896
+Valores críticos: [0.922 1.078 1.341 1.606 1.956]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+17 21.7893 1998
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0269
+p-valor: 0.1099
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 1.2377
+Valores críticos: [0.922 1.078 1.341 1.606 1.956]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+18 23.993199999999998 1663
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0238
+p-valor: 0.2990
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.7256
+Valores críticos: [0.922 1.078 1.341 1.605 1.956]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+19 26.328900000000004 1414
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0315
+p-valor: 0.1193
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.7735
+Valores críticos: [0.922 1.078 1.34  1.605 1.956]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+20 28.8 1159
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0397
+p-valor: 0.0505
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.5223
+Valores críticos: [0.922 1.077 1.34  1.605 1.956]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+21 31.4101 1046
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0328
+p-valor: 0.2050
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 1.4951
+Valores críticos: [0.921 1.077 1.34  1.605 1.956]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+22 34.1628 807
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0627
+p-valor: 0.0034
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.5191
+Valores críticos: [0.921 1.077 1.34  1.605 1.956]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- 
+23 37.06170000000001 744
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0311
+p-valor: 0.4585
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.3446
+Valores críticos: [0.921 1.077 1.34  1.605 1.955]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+24 40.110400000000006 635
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0433
+p-valor: 0.1794
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.4995
+Valores críticos: [0.921 1.077 1.34  1.604 1.955]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+25 43.3125 595
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0255
+p-valor: 0.8247
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.3891
+Valores críticos: [0.921 1.077 1.34  1.604 1.955]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+26 46.67159999999999 506
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0292
+p-valor: 0.7696
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.7149
+Valores críticos: [0.921 1.077 1.339 1.604 1.955]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+27 50.1913 429
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0296
+p-valor: 0.8362
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.2626
+Valores críticos: [0.921 1.076 1.339 1.604 1.954]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+28 53.87520000000001 388
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0290
+p-valor: 0.8905
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.3716
+Valores críticos: [0.921 1.076 1.339 1.604 1.954]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+29 57.72690000000002 343
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0296
+p-valor: 0.9169
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.3390
+Valores críticos: [0.92  1.076 1.339 1.603 1.954]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+
+
+
+
+
+
+
+
+
+Reparaciones con distribucion weibull
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- 
+0 1.0003361410421212 185928
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.6463
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 6940.1452
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+1 1.5347575196360286 99789
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.3399
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 1162.2782
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+2 2.157915717007763 52076
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.2089
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 177.0407
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+3 2.885417509458807 28411
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.1514
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 31.2905
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+4 3.719108342859 16318
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.1206
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 7.8407
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+5 4.659295239857171 10225
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0946
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 1.8985
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+6 5.7060157134848675 6441
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0867
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 1.2328
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+7 6.859253608471845 4371
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0744
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.4629
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+8 8.11898501187902 3031
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0559
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.3758
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+9 9.48518846486808 2163
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0571
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.3941
+Valores críticos: [0.922 1.078 1.341 1.606 1.956]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+10 10.957846634542259 1567
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0502
+p-valor: 0.0007
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 1.1767
+Valores críticos: [0.922 1.078 1.34  1.605 1.956]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+11 12.536945934223315 1161
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0483
+p-valor: 0.0085
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.2644
+Valores críticos: [0.922 1.077 1.34  1.605 1.956]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+12 14.222475773360514 957
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0375
+p-valor: 0.1332
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.4206
+Valores críticos: [0.921 1.077 1.34  1.605 1.956]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+13 16.01442786503002 631
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0847
+p-valor: 0.0002
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.4312
+Valores críticos: [0.921 1.077 1.34  1.604 1.955]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+14 17.912795674692184 541
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0320
+p-valor: 0.6271
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 2.1614
+Valores críticos: [0.921 1.077 1.34  1.604 1.955]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+15 19.917574002116055 443
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0443
+p-valor: 0.3417
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.1957
+Valores críticos: [0.921 1.077 1.339 1.604 1.954]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+16 22.028758669204638 362
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0794
+p-valor: 0.0200
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 1.2070
+Valores críticos: [0.92  1.076 1.339 1.603 1.954]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+17 24.24634628736658 310
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0694
+p-valor: 0.0972
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 1.7701
+Valores críticos: [0.92  1.076 1.338 1.603 1.953]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+18 26.570334083436162 244
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0361
+p-valor: 0.8984
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.5519
+Valores críticos: [0.92  1.075 1.338 1.602 1.952]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+19 29.00071976847336 215
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0510
+p-valor: 0.6162
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.7575
+Valores críticos: [0.919 1.075 1.337 1.602 1.952]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+20 31.53750143804038 182
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0835
+p-valor: 0.1518
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.8279
+Valores críticos: [0.919 1.074 1.337 1.601 1.951]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- 
+21 34.18067749572022 161
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0791
+p-valor: 0.2562
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.3872
+Valores críticos: [0.919 1.074 1.336 1.6   1.95 ]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+22 36.93024659392786 133
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0752
+p-valor: 0.4244
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.5785
+Valores críticos: [0.918 1.073 1.335 1.599 1.948]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+23 39.78620758769738 114
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0568
+p-valor: 0.8386
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.3252
+Valores críticos: [0.917 1.072 1.334 1.598 1.947]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+24 42.74855949829085 94
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.1068
+p-valor: 0.2228
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.6168
+Valores críticos: [0.916 1.071 1.332 1.596 1.944]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+25 45.81730148430647 83
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0551
+p-valor: 0.9530
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.2048
+Valores críticos: [0.915 1.07  1.331 1.594 1.943]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+26 48.992432818561845 59
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.1209
+p-valor: 0.3372
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Valores críticos: [0.913 1.067 1.327 1.59  1.937]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+27 52.27395286946123 58
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.1453
+p-valor: 0.1630
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 1.2705
+Valores críticos: [0.912 1.067 1.327 1.589 1.937]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+28 55.661861085871664 47
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0967
+p-valor: 0.7461
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.4652
+Valores críticos: [0.91  1.064 1.324 1.585 1.932]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+29 59.15615698476634 41
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0916
+p-valor: 0.8602
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.3967
+Valores críticos: [0.908 1.062 1.321 1.582 1.928]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+
+
+
+
+
+
+
+
+
+Reparaciones con distribucion exponential
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- 
+0 1.0 150136
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.7141
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 2946.9485
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+1 1.82 78686
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.4702
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 1647.5755
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+2 2.88 40682
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.2814
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 470.1899
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+3 4.180000000000001 22489
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.1702
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 129.0105
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+4 5.720000000000001 12899
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.1199
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 40.7238
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+5 7.5 7928
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0780
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 13.7785
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- 
+6 9.520000000000001 5121
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0643
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 4.4666
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+7 11.780000000000001 3304
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0596
+p-valor: 0.0000
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 3.5312
+Valores críticos: [0.922 1.078 1.341 1.606 1.957]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+8 14.28 2309
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0404
+p-valor: 0.0010
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (p ≤ 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.9409
+Valores críticos: [0.922 1.078 1.341 1.606 1.956]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+9 17.019999999999996 1623
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0297
+p-valor: 0.1111
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 1.0893
+Valores críticos: [0.922 1.078 1.341 1.605 1.956]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- 
+10 20.0 1223
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0221
+p-valor: 0.5807
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.5523
+Valores críticos: [0.922 1.077 1.34  1.605 1.956]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+11 23.220000000000002 858
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0401
+p-valor: 0.1231
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.2524
+Valores críticos: [0.921 1.077 1.34  1.605 1.956]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+12 26.68 639
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0354
+p-valor: 0.3904
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.3420
+Valores críticos: [0.921 1.077 1.34  1.604 1.955]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+13 30.380000000000003 493
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0385
+p-valor: 0.4485
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.7731
+Valores críticos: [0.921 1.077 1.339 1.604 1.955]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- 
+14 34.32000000000001 434
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0262
+p-valor: 0.9190
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.3901
+Valores críticos: [0.921 1.077 1.339 1.604 1.954]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+15 38.5 337
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0619
+p-valor: 0.1460
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.6453
+Valores críticos: [0.92  1.076 1.339 1.603 1.954]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+16 42.92 252
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0441
+p-valor: 0.6959
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.5156
+Valores críticos: [0.92  1.075 1.338 1.602 1.952]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+17 47.58 226
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0487
+p-valor: 0.6425
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.2392
+Valores críticos: [0.92  1.075 1.337 1.602 1.952]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+18 52.48 179
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0380
+p-valor: 0.9509
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.4860
+Valores críticos: [0.919 1.074 1.336 1.601 1.95 ]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+19 57.62000000000001 149
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0621
+p-valor: 0.5953
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.3487
+Valores críticos: [0.918 1.074 1.336 1.6   1.949]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+20 63.0 102
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.1258
+p-valor: 0.0749
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.5115
+Valores críticos: [0.917 1.072 1.333 1.597 1.945]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+21 68.62 93
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0829
+p-valor: 0.5250
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 1.7468
+Valores críticos: [0.916 1.071 1.332 1.596 1.944]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+22 74.48 96
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0821
+p-valor: 0.5176
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 1.4917
+Valores críticos: [0.916 1.071 1.333 1.596 1.945]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+❌ Se rechaza H0: Los datos NO siguen la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+23 80.58 80
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.1214
+p-valor: 0.1796
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 1.2748
+Valores críticos: [0.915 1.07  1.331 1.594 1.942]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- 
+24 86.92 58
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0941
+p-valor: 0.6583
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.6518
+Valores críticos: [0.912 1.067 1.327 1.589 1.937]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+25 93.5 55
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0582
+p-valor: 0.9882
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.1651
+Valores críticos: [0.912 1.066 1.326 1.588 1.935]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+26 100.32000000000001 51
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.1507
+p-valor: 0.1862
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.4036
+Valores críticos: [0.911 1.065 1.325 1.587 1.934]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+27 107.38000000000001 39
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.0917
+p-valor: 0.8774
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.3512
+Valores críticos: [0.908 1.061 1.32  1.581 1.927]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+28 114.68 32
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.1246
+p-valor: 0.6759
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.3997
+Valores críticos: [0.904 1.058 1.316 1.576 1.92 ]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
+ ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ---- + ----
+29 122.22 33
+
+--- Prueba de Kolmogorov-Smirnov (KS) ---
+Estadístico KS: 0.1185
+p-valor: 0.7157
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (p > 0.05)
+
+--- Prueba de Anderson-Darling (AD) ---
+Estadístico AD: 0.6947
+Valores críticos: [0.905 1.058 1.316 1.576 1.921]
+Niveles de significancia (%): [15.  10.   5.   2.5  1. ]
+✅ No se rechaza H0: Los datos podrían seguir la exponencial teórica (alpha=0.05)
